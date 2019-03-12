@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.2</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SimonGilbert.Blog.Sms.Models\SimonGilbert.Blog.Sms.Models.csproj" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Twilio.AspNet.Core" Version="5.20.1" />
+  </ItemGroup>
+</Project>
