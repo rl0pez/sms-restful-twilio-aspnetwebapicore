@@ -6,5 +6,8 @@
 ## Read My Accompanying Blog
 - https://www.simongilbert.net/cross-platform-sms-restful-twilio-aspnetwebapicore/
 
+## Read My Other Blogs
+- https://www.simongilbert.net
+
 ### License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
